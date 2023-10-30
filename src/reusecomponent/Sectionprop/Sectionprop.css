@@ -1,0 +1,45 @@
+.main {
+  /* padding: 2rem;
+  width: 645px;
+  height: 135px; */
+}
+.iconbg {
+  border-radius: 6px;
+  padding: 0 3px;
+  background:#2B3241;
+
+}
+.svgicon {
+  border-radius: 59px;
+  border: 1px solid #2b3241;
+  background: white;
+  padding: 3px;
+}
+.heading {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.contentpara {
+  color: #2d3643;
+  font-size: 12px;
+  font-weight: 400;
+  line-height: normal;
+  width: 537px;
+}
+
+.content {
+  margin-left: 2rem;
+}
+.cntnparaicon {
+  color: #000;
+  font-size: 10.5px;
+  font-weight: 500;
+  line-height: 21px; /* 200% */
+  letter-spacing: -0.225px;
+}
+.centericontext{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
